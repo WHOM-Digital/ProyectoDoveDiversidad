@@ -26547,9 +26547,12 @@ body.loaded .page-loading {
 }
 .gradient-wrapper .post-info .inner .post-feature .post-gradient::before {
     content: "";
-    padding-top: 100%;
+    padding-top: 116%;
     width: 100%;
     display: block;
+    background-color:  #dbc081;
+    position: absolute;
+    left: -18%;
 }
 .gradient-wrapper .post-info .inner .post-feature .post-gradient .post-thumbnail {
     position: absolute;
