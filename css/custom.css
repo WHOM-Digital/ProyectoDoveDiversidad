@@ -6,4 +6,92 @@
 
 	Note: This is custom css.
 
+**********************************************************************************//*********************************************************************************
+
+	Template Name: Template Full Name Here
+	Description: A perfect template to build beautiful and unique medical websites. It comes with nice and clean design.
+	Version: 1.0
+
+	Note: This is custom css.
+
 **********************************************************************************/
+
+@font-face {
+	font-family: 'HelveticaNeue-light';
+	src: url(/helvetica/HelveticaNeueLight.otf);
+	font-weight: normal;
+	font-style: normal;
+  }
+
+  @font-face {
+	font-family: 'HelveticaNeue-ultraLight';
+	src: url(/helvetica/HelveticaNeueUltaLight.otf);
+	font-weight: lighter;
+	font-style: normal;
+  }
+
+  @font-face {
+	font-family: 'HelveticaNeue-bold';
+	src: url(/helvetica/HelveticaNeueBold.otf);
+	
+  }
+
+  @media only screen and (min-width: 375px){
+
+	#imgFooter1{
+		max-width: 50%;
+	}
+
+}
+
+@media only screen and (max-width: 375px){
+
+	#imgFooter1{
+		max-width: 100%;
+	}
+
+}
+
+@media only screen and (min-width: 375px){
+
+	#imgFooter2{
+		max-width: 30%;
+		border-radius: 50%;
+	}
+
+}
+
+@media only screen and (max-width: 375px){
+
+	#imgFooter2{
+		max-width: 70%;
+		border-radius: 50%;
+	}
+
+}
+
+@media only screen and (max-width: 375px){
+
+	#fotoCynthia{
+		max-width: 75%;
+		position: absolute;
+		left: -20%;
+	}
+
+}
+
+@media only screen and (max-width: 375px){
+
+	#fotoMariana{
+		max-width: 75%;
+	}
+
+}
+
+@media only screen and (max-width: 375px){
+
+	#fotoJessica{
+		max-width: 75%;
+	}
+
+}
