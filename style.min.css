@@ -20889,7 +20889,7 @@ p.bk_pra.line-height-2-22 {
 }
 .vc_row-separator.triangle svg {
     height: 40px;
-    fill: #fff;
+    fill: #dbc081;
     width: 100%;
 }
 .vc_row-separator.triangle.triangle--top {
@@ -26465,7 +26465,7 @@ body.loaded .page-loading {
 }
 @media only screen and (max-width: 767px) {
     .gradient-wrapper .post-info .inner .main-info .main-info-inner h2 {
-        font-size: 22px;
+        font-size: 20px;
         margin-bottom: 50px;
         line-height: 1.5;
     }
@@ -26662,7 +26662,7 @@ a {
     background-color: #fff;
 }
 .cd-section:first-of-type > div::before {
-    content: "Effects not visible on mobile!";
+    content: "";
     position: absolute;
     width: 100%;
     text-align: center;
