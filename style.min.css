@@ -26373,7 +26373,8 @@ body.loaded .page-loading {
     }
 }
 .gradient-wrapper {
-    margin: 150px;
+    margin-left: 250px;
+    margin-top: 150px;
     width: 100%;
     display: -webkit-box;
     display: -webkit-flex;
@@ -26554,7 +26555,7 @@ body.loaded .page-loading {
     position: absolute;
     top: 30px;
     bottom: 30px;
-    left: 100px;
+    left: 120px;
     width: calc(100% - 60px);
     right: 0;
     -webkit-transform: translate(50%);
