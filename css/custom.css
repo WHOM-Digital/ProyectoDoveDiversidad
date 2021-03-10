@@ -76,6 +76,7 @@
 		max-width: 75%;
 		position: absolute;
 		left: -20%;
+		visibility: visible;
 	}
 
 }
@@ -84,6 +85,9 @@
 
 	#fotoMariana{
 		max-width: 75%;
+		position: absolute;
+		left: -20%;
+		visibility: visible;
 	}
 
 }
@@ -92,6 +96,9 @@
 
 	#fotoJessica{
 		max-width: 75%;
+		position: absolute;
+		left: -20%;
+		visibility: visible;
 	}
 
 }

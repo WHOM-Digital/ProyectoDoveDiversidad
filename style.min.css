@@ -26440,7 +26440,7 @@ body.loaded .page-loading {
 @media only screen and (max-width: 767px) {
     .gradient-wrapper .post-info .inner .main-info .main-info-inner h6 {
         font-size: 76px;
-        margin-bottom: 26px;
+        margin-bottom: 70px;
     }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -26465,8 +26465,9 @@ body.loaded .page-loading {
 }
 @media only screen and (max-width: 767px) {
     .gradient-wrapper .post-info .inner .main-info .main-info-inner h2 {
-        font-size: 25px;
+        font-size: 22px;
         margin-bottom: 50px;
+        line-height: 1.5;
     }
 }
 .gradient-wrapper .post-info .inner .main-info .main-info-inner h2 a {
@@ -26543,6 +26544,7 @@ body.loaded .page-loading {
 @media only screen and (max-width: 767px) {
     .gradient-wrapper .post-info .inner .post-feature .post-gradient {
         width: 366px;
+        visibility: hidden;
     }
 }
 .gradient-wrapper .post-info .inner .post-feature .post-gradient::before {
@@ -26557,7 +26559,7 @@ body.loaded .page-loading {
 }
 .gradient-wrapper .post-info .inner .post-feature .post-gradient .post-thumbnail {
     position: absolute;
-    top: 30px;
+    top: 110px;
     bottom: 30px;
     left: 120px;
     width: calc(100% - 60px);
