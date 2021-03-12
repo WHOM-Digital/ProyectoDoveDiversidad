@@ -103,3 +103,96 @@
 	}
 
 }
+
+@media only screen and (max-width: 750px){
+
+	#carruselMobile{
+		display: none;
+	}
+
+}
+
+@media only screen and (max-width: 750px){
+
+	#carruselMobile{
+		display: none;
+	}
+
+}
+
+@media only screen and (max-width: 750px){
+
+	#fotoCynthia2{
+		display: none;
+	}
+
+}
+
+@media only screen and (max-width: 750px){
+
+	#fotoCynthia2{
+		display: none;
+	}
+
+}
+
+@media only screen and (max-width: 750px){
+
+	#fotoMariana2{
+		display: none;
+	}
+
+}
+
+@media only screen and (max-width: 750px){
+
+	#fotoMariana2{
+		display: none;
+	}
+
+}
+
+@media only screen and (max-width: 750px){
+
+	#fotoJessica2{
+		display: none;
+	}
+
+}
+
+@media only screen and (max-width: 750px){
+
+	#fotoJessica2{
+		display: none;
+	}
+
+}
+
+@media only screen and (min-width: 750px){
+
+	#section1{
+		display: none;
+	}
+
+}
+
+
+
+@media only screen and (min-width: 750px){
+
+	#section2{
+		display: none;
+	}
+
+}
+
+
+
+@media only screen and (min-width: 750px){
+
+	#section3{
+		display: none;
+	}
+
+}
+
