@@ -1007,7 +1007,7 @@ Animation Css
   font-family: "'HelveticaNeue-light' !important"; }
 
 .playfair-font {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 .spectral-font {
   font-family: "Spectral", serif; }
@@ -11312,7 +11312,7 @@ Contact Form Style 01
     font-family: "Montserrat", sans-serif;
     margin-bottom: 60px; }
     .call-to-action.callto-action--1 .content h3 span {
-      font-family: 'HelveticaNeue-light' !important;
+      font-family: "Playfair Display", serif;
       font-style: italic;
       font-weight: 700; }
 
@@ -14478,7 +14478,7 @@ Testimonial Area
     font-size: 30px;
     line-height: 1.6;
     font-style: italic;
-    font-family: 'HelveticaNeue-light' !important;
+    font-family: "Playfair Display", serif;
     margin-bottom: 40px;
     color: #fff; }
     @media only screen and (max-width: 767px) {
@@ -16018,7 +16018,7 @@ Typography Area
   .heading.bk-hover a {
     color: #222222; }
   .heading.playfair-font {
-    font-family: 'HelveticaNeue-light' !important; }
+    font-family: "Playfair Display", serif; }
   .heading.secondary-font {
     font-family: "Montserrat", sans-serif; }
   .heading.roboto-font {
@@ -44860,50 +44860,50 @@ body.template-font-4 .h3,
 body.template-font-4 .h4,
 body.template-font-4 .h5,
 body.template-font-4 .h6 {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-4 .heading.font-reenie {
   font-family: 'Reenie Beanie', cursive; }
 
 body.template-font-4 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-4 .mega__width--fullscreen .mega__list li a span {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-4 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-4 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-4 .copyright ul.bk-copyright-menu li a {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-4 .copyright .copyright-right p {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-4 .footer-widget .footer-address p {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-4 .form-style--1 .input-box input,
 body.template-font-4 .form-style--1 .input-box textarea {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-4 .testimonial_style--1 .content p {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-4 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-4 .service.service--1 .content p {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-4 .service.service--2 .content h4 {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-4 .service.service--2 .content p {
-  font-family: 'HelveticaNeue-light' !important; }
+  font-family: "Playfair Display", serif; }
 
 body.template-font-5 .heading,
 body.template-font-5 h1,
