@@ -26375,7 +26375,6 @@ body.loaded .page-loading {
 .gradient-wrapper {
     margin-left: 250px;
     margin-top: 80px;
-    margin-bottom: 50%;
     width: 100%;
     display: -webkit-box;
     display: -webkit-flex;
@@ -26390,7 +26389,7 @@ body.loaded .page-loading {
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .gradient-wrapper {
         margin: 40px;
-        padding-bottom: 45%;
+        padding-bottom: 0%;
     }
 }
 @media only screen and (max-width: 767px) {
