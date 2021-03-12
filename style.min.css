@@ -26429,7 +26429,7 @@ body.loaded .page-loading {
 }
 @media only screen and (max-width: 767px) {
     .gradient-wrapper .post-info .inner .main-info .main-info-inner {
-        padding: 20px;
+        padding: 0 25px 0;
     }
 }
 .gradient-wrapper .post-info .inner .main-info .main-info-inner h6 {
@@ -26550,7 +26550,7 @@ body.loaded .page-loading {
 }
 .gradient-wrapper .post-info .inner .post-feature .post-gradient::before {
     content: "";
-    padding-top: 116%;
+    padding-top: 105%;
     width: 100%;
     display: block;
     background-color:  #dbc081;
