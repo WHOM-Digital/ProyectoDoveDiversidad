@@ -359,7 +359,7 @@ body {
     line-height: 24px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     color: #333;
     font-weight: 400;
 }
@@ -868,13 +868,13 @@ select {
     font-family: Montserrat, sans-serif;
 }
 .primary-font {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .heading-font {
     font-family: 'HelveticaNeue-light' !important;
 }
 .playfair-font {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .spectral-font {
     font-family: Spectral, serif;
@@ -9059,7 +9059,7 @@ body.template-color-41 .text-color {
     text-decoration: underline;
 }
 .body-font {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .heading-font {
     font-family: 'HelveticaNeue-light' !important;
@@ -9754,7 +9754,7 @@ button.bk-btn {
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 0;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 a.bk-btn.theme-btn,
 button.bk-btn.theme-btn {
@@ -9782,7 +9782,7 @@ button.brook-btn {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
     font-weight: 600;
     letter-spacing: 0;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     display: inline-block;
     text-align: center;
     white-space: nowrap;
@@ -10091,7 +10091,7 @@ a.moredetails-btn.yellow-color-2:hover {
     margin-left: 14px;
     color: #fcb72b;
     font-size: 14px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .view-more-btn a span.btn-arrow::before {
     content: "";
@@ -10399,7 +10399,7 @@ a.moredetails-btn.yellow-color-2:hover {
     letter-spacing: 1px;
     text-transform: uppercase;
     line-height: 1.43;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     margin-bottom: 39px;
 }
 @media only screen and (max-width: 767px) {
@@ -10762,7 +10762,7 @@ a.moredetails-btn.yellow-color-2:hover {
     font-family: Montserrat, sans-serif;
 }
 .section-title--between .title h3 span {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-style: italic;
     font-weight: 700;
 }
@@ -10770,7 +10770,7 @@ a.moredetails-btn.yellow-color-2:hover {
     font-weight: 600;
     font-size: 14px;
     color: #fff;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     white-space: nowrap;
     line-height: 1.2;
 }
@@ -10806,7 +10806,7 @@ a.moredetails-btn.yellow-color-2:hover {
     font-family: Montserrat, sans-serif;
 }
 .title--creative h2 span {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-style: italic;
     font-weight: 700;
 }
@@ -10892,7 +10892,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.38;
     margin-bottom: 18px;
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-weight: 600;
 }
 .service.service--1 .content p {
@@ -10996,7 +10996,7 @@ a.moredetails-btn.yellow-color-2:hover {
     font-weight: 600;
     letter-spacing: 0;
     line-height: 1.23;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .service.service--3 .content h3 a {
     color: #222;
@@ -11385,7 +11385,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.43;
     margin-bottom: 0;
     word-wrap: break-word;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .number-speaks .content h2 {
     font-size: 48px;
@@ -11434,7 +11434,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.39;
     margin-bottom: 0;
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-weight: 600;
 }
 .number-wrap .content p {
@@ -11503,7 +11503,7 @@ a.moredetails-btn.yellow-color-2:hover {
     letter-spacing: 1px;
     text-transform: uppercase;
     line-height: 1.43;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .team-heading .heading-right button {
     padding: 0;
@@ -11512,7 +11512,7 @@ a.moredetails-btn.yellow-color-2:hover {
     font-weight: 600;
     font-size: 14px;
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .team-heading .heading-right button i {
     padding-left: 10px;
@@ -11710,7 +11710,7 @@ a.moredetails-btn.yellow-color-2:hover {
     margin-bottom: 4px;
     color: #222;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .team.team_style--1 .info span {
     letter-spacing: 0;
@@ -11843,7 +11843,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.388;
     margin-bottom: 6px;
     color: #fff;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .team.team__style--2 .thumb .team-info .info span {
     color: rgba(255, 255, 255, 0.5);
@@ -11931,7 +11931,7 @@ a.moredetails-btn.yellow-color-2:hover {
     font-size: 18px;
     line-height: 1.388;
     margin-bottom: 6px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .team.team__style--3 .team-info .info span {
     font-weight: 500;
@@ -11995,7 +11995,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.4;
     margin-bottom: 2px;
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .team.team_style--4 .inner .content-body .position {
     font-size: 14px;
@@ -12396,7 +12396,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.56;
     margin-bottom: 0;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     margin: 0 0 18px;
 }
 .blog .blog-content .content h3.the-title a {
@@ -12562,7 +12562,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.375;
     margin-bottom: 0;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     margin: 0 0 18px;
 }
 .blog-style--1 .blog-content .content h3.the-title a {
@@ -12573,7 +12573,7 @@ a.moredetails-btn.yellow-color-2:hover {
     line-height: 1.12;
     margin-bottom: 0;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .blog-style--1 .blog-content .content h6.post-quote-by a {
     color: #fff;
@@ -12844,7 +12844,7 @@ a.moredetails-btn.yellow-color-2:hover {
     cursor: pointer;
     -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     color: #fff;
     border-color: #0038e3;
     background-color: #0038e3;
@@ -12878,7 +12878,7 @@ a.moredetails-btn.yellow-color-2:hover {
     background-color: #0038e3;
     font-size: 14px;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     border-radius: 6px;
     -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -13168,7 +13168,7 @@ a.moredetails-btn.yellow-color-2:hover {
     }
 }
 .about--creative .content .title--creative h2 span {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-style: italic;
     font-weight: 700;
 }
@@ -13186,7 +13186,7 @@ a.moredetails-btn.yellow-color-2:hover {
     font-weight: 600;
     font-size: 14px;
     color: #fff;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     white-space: nowrap;
     line-height: 1.2;
 }
@@ -13353,7 +13353,7 @@ a.moredetails-btn.yellow-color-2:hover {
     -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-weight: 600;
     font-size: 14px;
 }
@@ -13389,7 +13389,7 @@ a.moredetails-btn.yellow-color-2:hover {
     margin-bottom: 60px;
 }
 .call-to-action.callto-action--1 .content h3 span {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-style: italic;
     font-weight: 700;
 }
@@ -13472,7 +13472,7 @@ a.moredetails-btn.yellow-color-2:hover {
 }
 .slick-arrow-center .slick-btn i {
     background: 0 0;
-    color: #333;
+    color: #FFFFFF;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .slick-arrow-center .slick-btn {
@@ -14138,7 +14138,7 @@ a.moredetails-btn.yellow-color-2:hover {
     z-index: 1000001;
 }
 .social-icon.tooltip-layout li a[class*="hint--"][aria-label]:after {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-weight: 600;
     line-height: 1.23;
     content: attr(aria-label);
@@ -14390,7 +14390,7 @@ a[class*="hint--"]:before {
     z-index: 1000001;
 }
 a[class*="hint--"][aria-label]:after {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-weight: 600;
     line-height: 1.23;
     content: attr(aria-label);
@@ -15293,14 +15293,14 @@ a:hover.hint--bottom::after {
     font-size: 18px;
     margin-bottom: 14px;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     line-height: 1.23;
 }
 .carousle-slider .content p {
     line-height: 1.58;
     font-size: 14px;
     font-weight: 500;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     color: #333;
     margin: 0;
 }
@@ -15424,7 +15424,7 @@ a:hover.hint--bottom::after {
     bottom: -31px;
     font-size: 14px !important;
     color: #999;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .time_circles > div > span {
     display: block;
@@ -15821,7 +15821,7 @@ a:hover.hint--bottom::after {
     border-radius: 50%;
     text-align: center;
     z-index: 3;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .bk-gradation .item-grid .content {
     position: relative;
@@ -16020,7 +16020,7 @@ a:hover.hint--bottom::after {
 .ht-pricing-list-view thead tr th.pricing-header .heading-h4 {
     font-size: 24px;
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-weight: 600;
     letter-spacing: 0;
     line-height: 1.23;
@@ -16029,7 +16029,7 @@ a:hover.hint--bottom::after {
 .ht-pricing-list-view thead tr th.pricing-header .heading-h6 {
     font-size: 14px;
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-weight: 600;
     letter-spacing: 0;
     line-height: 1.23;
@@ -16893,14 +16893,14 @@ a:hover.hint--bottom::after {
     margin-bottom: 6px;
     color: #222;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .testimonial_style--1 .content .testimonial-info .clint-info span {
     color: #333;
     font-weight: 500;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .testimonial_style--1 .content .testimonial-quote {
     padding: 2px 5px 0 0;
@@ -17101,14 +17101,14 @@ a:hover.hint--bottom::after {
     font-size: 18px;
     line-height: 1.388;
     margin-bottom: 4px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .testimonial_style--2 .content .testimonial-info .clint-info span {
     font-weight: 500;
     letter-spacing: 0;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
     position: absolute;
@@ -17181,11 +17181,11 @@ a:hover.hint--bottom::after {
     width: 132px !important;
     height: 132px;
     border-radius: 50%;
-    background-image: -webkit-linear-gradient(right, #fe5b34, #fe378c);
-    background-image: -webkit-gradient(linear, right top, left top, color-stop(0, #fe5b34), to(#fe378c));
-    background-image: -webkit-linear-gradient(right, #fe5b34 0, #fe378c);
-    background-image: -o-linear-gradient(right, #fe5b34 0, #fe378c);
-    background-image: linear-gradient(270deg, #fe5b34 0, #fe378c);
+    background-image: -webkit-linear-gradient(right, #FFFFFF, #FFFFFF);
+    background-image: -webkit-gradient(linear, right top, left top, color-stop(0, #FFFFFF), to(#FFFFFF));
+    background-image: -webkit-linear-gradient(right, #FFFFFF 0, #FFFFFF);
+    background-image: -o-linear-gradient(right, #FFFFFF 0, #FFFFFF);
+    background-image: linear-gradient(270deg, #FFFFFF 0, #FFFFFF);
 }
 .testimonial-nav-style.testimonial-nav--2 .slick-center .clint-thumb {
     background-image: inherit;
@@ -17200,14 +17200,14 @@ a:hover.hint--bottom::after {
     font-size: 30px;
     line-height: 1.6;
     font-style: italic;
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
     margin-bottom: 40px;
     color: #fff;
 }
 @media only screen and (max-width: 767px) {
     .testimonial-nav-content .testimonial-nav .content p {
-        font-size: 26px;
-        line-height: 1.5;
+        font-size: 20px;
+        line-height: 1.3;
     }
 }
 .testimonial-nav-content .testimonial-nav .content .rating {
@@ -17223,11 +17223,11 @@ a:hover.hint--bottom::after {
 }
 .testimonial-nav-content .testimonial-nav .content .testimonial-info .clint-info h6 {
     color: #fff;
-    font-size: 20px;
+    font-size: 35px;
     font-weight: 700;
     display: inline-block;
-    margin-bottom: 0;
-    font-family: Poppins, sans-serif;
+    margin-bottom: 25px;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .testimonial-nav-content .testimonial-nav .content .testimonial-info .clint-info span {
     font-size: 15px;
@@ -17254,7 +17254,7 @@ a:hover.hint--bottom::after {
     font-weight: 700;
     display: inline-block;
     margin-bottom: 0;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .testimonial-nav-content.testimonial-content--2 .testimonial-nav .content .testimonial-info .clint-info span {
     font-size: 15px;
@@ -17319,7 +17319,7 @@ a:hover.hint--bottom::after {
     font-size: 18px;
     line-height: 1.388;
     margin-bottom: 4px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     color: #fff;
 }
 .testimonanial-style--3 .testimonial-info .clint-info span {
@@ -17327,7 +17327,7 @@ a:hover.hint--bottom::after {
     letter-spacing: 0;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     color: #fff;
 }
 .testimonial_style--4 .content {
@@ -17380,14 +17380,14 @@ a:hover.hint--bottom::after {
     margin-bottom: 6px;
     color: #fff;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .testimonial_style--4 .content .testimonial-info .clint-info span {
     color: rgba(255, 255, 255, 0.6);
     font-weight: 500;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .testimonial_style--5 .content {
     margin: 0 auto;
@@ -17420,14 +17420,14 @@ a:hover.hint--bottom::after {
     margin-bottom: 6px;
     color: #fff;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .testimonial_style--5 .content .testimonial-info .clint-info span {
     color: rgba(255, 255, 255, 0.6);
     font-weight: 500;
     line-height: 1.58;
     font-size: 18px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 @media only screen and (max-width: 767px) {
     .testimonial_style--5 .content p {
@@ -18102,7 +18102,7 @@ audio {
     font-weight: 600;
     line-height: 1.41;
     font-size: 32px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .breadcaump-area.breadcaump-title-bar .breadcaump-inner .heading.heading-h1 {
     font-weight: 600;
@@ -18143,7 +18143,7 @@ audio {
     -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .breadcaump-area.breadcaump-title-bar .breadcaump-inner .breadcrumb-insite ul.core-breadcaump li a::after {
     content: "";
@@ -18572,7 +18572,7 @@ audio {
     color: #fff;
     border-color: #0038e3;
     background-color: #0038e3;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     height: 55px;
     line-height: 53px;
     outline: 0;
@@ -18751,7 +18751,7 @@ audio {
     border: 0 solid transparent;
     border-bottom: 1px solid #444;
     color: #fff;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .mega__width--fullscreen .mega__list li a span {
     position: relative;
@@ -18902,7 +18902,7 @@ audio {
 }
 .heading {
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-weight: 600;
     letter-spacing: 0;
     line-height: 1.23;
@@ -18918,7 +18918,7 @@ audio {
     color: #222;
 }
 .heading.playfair-font {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .heading.secondary-font {
     font-family: Montserrat, sans-serif;
@@ -19314,7 +19314,7 @@ p.bk_pra {
     font-weight: 500;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 @media only screen and (max-width: 767px) {
     p.bk_pra br {
@@ -19473,7 +19473,7 @@ p.bk_pra.line-height-2-22 {
     font-weight: 600;
     line-height: 1.625;
     color: #222;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-style: normal;
 }
 .bk-list .list-header {
@@ -20271,7 +20271,7 @@ p.bk_pra.line-height-2-22 {
     font-weight: 500;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .message-box.bg_cat--1 {
     background: #eee;
@@ -20326,7 +20326,7 @@ p.bk_pra.line-height-2-22 {
     padding: 0;
     font-weight: 600;
     border: 0 none;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     -webkit-appearance: none;
     display: block;
     background: #f7f7f7;
@@ -20361,7 +20361,7 @@ p.bk_pra.line-height-2-22 {
     letter-spacing: 0;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     border: 0 none;
     -webkit-box-shadow: 0 20px 40px rgba(0, 0, 0, 0.07);
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.07);
@@ -20388,7 +20388,7 @@ p.bk_pra.line-height-2-22 {
     padding: 0;
     font-weight: 600;
     border: 0 none;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     -webkit-appearance: none;
     display: block;
     position: relative;
@@ -20426,7 +20426,7 @@ p.bk_pra.line-height-2-22 {
     font-weight: 500;
     line-height: 1.58;
     font-size: 14px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     border: 0 none;
     -webkit-box-shadow: inherit;
     box-shadow: inherit;
@@ -21221,7 +21221,7 @@ body.loaded .page-loading {
     margin: 0;
     font-weight: 600;
     letter-spacing: 0;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 @media only screen and (max-width: 767px) {
     .portfolio.portfolio_style--1 .port-overlay-info .hover-action h3.post-overlay-title {
@@ -22143,7 +22143,7 @@ body.loaded .page-loading {
     -ms-flex-positive: 1;
     flex-grow: 1;
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .portfolio-cation .port-overlay-info .hover-action .post-overlay-title a {
     color: #222;
@@ -22203,7 +22203,7 @@ body.loaded .page-loading {
     -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     font-weight: 600;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .messonry-button button span.filter-counter::before {
     position: absolute;
@@ -24385,7 +24385,7 @@ body.loaded .page-loading {
     margin-bottom: 20px;
     padding-bottom: 11px;
     border-bottom: 1px solid #eee;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-weight: 600;
     line-height: 1.23;
     color: #222;
@@ -24561,7 +24561,7 @@ body.loaded .page-loading {
     margin-bottom: 20px;
     padding-bottom: 11px;
     border-bottom: 1px solid #eee;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-weight: 600;
     line-height: 1.23;
     color: #222;
@@ -26931,7 +26931,7 @@ a {
     font-weight: 600;
     line-height: 1.18;
     font-size: 16px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     color: #0038e3;
     padding-top: 41px;
     padding-bottom: 41px;
@@ -28076,7 +28076,7 @@ header.br_header.header-default.header-fixed {
     font-size: 18px;
     line-height: 1.4;
     margin-bottom: 21px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-weight: 600;
     margin: 0 0 18px;
 }
@@ -30084,7 +30084,7 @@ header.br_header.header-default.header-fixed {
 .product .product-info .price span {
     display: inline-block;
     color: #333;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .product .product-info .price span.new-price {
     color: #d5382c;
@@ -30249,7 +30249,7 @@ header.br_header.header-default.header-fixed {
     transform: translateX(-50%);
 }
 .product .product-thumbnail .product-action .action-list.tooltip-layout li a[class*="hint--"][aria-label]:after {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-weight: 600;
     line-height: 1.23;
     content: attr(aria-label);
@@ -30794,7 +30794,7 @@ header.br_header.header-default.header-fixed {
     border-bottom-color: transparent;
     margin-bottom: 19px;
     padding-bottom: 13px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .footer-widget .footer-menu ul.ft-menu-list {
     list-style: none;
@@ -30871,7 +30871,7 @@ header.br_header.header-default.header-fixed {
     color: #fff;
 }
 .footer-widget.text-var--2 .footer-menu ul.ft-menu-list li a {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-size: 14px;
     font-weight: 500;
     letter-spacing: 0;
@@ -30880,12 +30880,12 @@ header.br_header.header-default.header-fixed {
 .footer-widget.text-var--2 .footer-address p {
     font-size: 14px;
     font-weight: 500;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .footer-widget.text-var--2 .footer-address p a {
     font-size: 14px;
     font-weight: 500;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .footer-widget.news-bulletin .heading {
     color: #999;
@@ -30985,11 +30985,11 @@ header.br_header.header-default.header-fixed {
     color: #fff;
 }
 .copyright.text-var-2 .copyright-left ul.bk-copyright-menu li a {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     font-size: 14px;
 }
 .copyright.text-var-2 .copyright-right p {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 .copyright.copyright--2 .copyright-left p {
     margin: 0;
@@ -50666,50 +50666,50 @@ body.template-font-1 h3,
 body.template-font-1 h4,
 body.template-font-1 h5,
 body.template-font-1 h6 {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-1 .heading.font-reenie {
     font-family: "Reenie Beanie", cursive;
 }
 body.template-font-1 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-1 .mega__width--fullscreen .mega__list li a span {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-1 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-1 .footer-widget .footer-menu ul.ft-menu-list li a {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-1 .copyright ul.bk-copyright-menu li a {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-1 .copyright .copyright-right p {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-1 .footer-widget .footer-address p {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-1 .form-style--1 .input-box input,
 body.template-font-1 .form-style--1 .input-box textarea {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-1 .testimonial_style--1 .content p {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-1 .testimonial_style--1 .content .testimonial-info .clint-info span {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-1 .service.service--1 .content p {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-1 .service.service--2 .content h4 {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-1 .service.service--2 .content p {
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-2 .h1,
 body.template-font-2 .h2,
@@ -50840,50 +50840,50 @@ body.template-font-4 h3,
 body.template-font-4 h4,
 body.template-font-4 h5,
 body.template-font-4 h6 {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-4 .heading.font-reenie {
     font-family: "Reenie Beanie", cursive;
 }
 body.template-font-4 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-4 .mega__width--fullscreen .mega__list li a span {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-4 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-4 .footer-widget .footer-menu ul.ft-menu-list li a {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-4 .copyright ul.bk-copyright-menu li a {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-4 .copyright .copyright-right p {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-4 .footer-widget .footer-address p {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-4 .form-style--1 .input-box input,
 body.template-font-4 .form-style--1 .input-box textarea {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-4 .testimonial_style--1 .content p {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-4 .testimonial_style--1 .content .testimonial-info .clint-info span {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-4 .service.service--1 .content p {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-4 .service.service--2 .content h4 {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-4 .service.service--2 .content p {
-    font-family: "Playfair Display", serif;
+    font-family: 'HelveticaNeue-light' !important;
 }
 body.template-font-5 .h1,
 body.template-font-5 .h2,
@@ -51158,7 +51158,7 @@ body.template-font-8 .service.service--2 .content p {
 }
 .pv-service-wrapper .single-grid .inner h4 {
     font-size: 20px;
-    font-family: Poppins, sans-serif;
+    font-family: 'HelveticaNeue-light' !important;
     line-height: 1.4;
     margin-bottom: 0;
     word-wrap: break-word;
