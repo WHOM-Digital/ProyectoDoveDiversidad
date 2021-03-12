@@ -26375,6 +26375,7 @@ body.loaded .page-loading {
 .gradient-wrapper {
     margin-left: 250px;
     margin-top: 80px;
+    margin-bottom: 50%;
     width: 100%;
     display: -webkit-box;
     display: -webkit-flex;
