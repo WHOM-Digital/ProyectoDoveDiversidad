@@ -26440,7 +26440,7 @@ body.loaded .page-loading {
 @media only screen and (max-width: 767px) {
     .gradient-wrapper .post-info .inner .main-info .main-info-inner h6 {
         font-size: 76px;
-        margin-bottom: 70px;
+        margin-bottom: 60px;
     }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -26459,7 +26459,7 @@ body.loaded .page-loading {
 .gradient-wrapper .post-info .inner .main-info .main-info-inner h5 {
   font-size: 20px;
   line-height: 1.13;
-  margin-bottom: 140px;
+  margin-bottom: 80px;
   text-align: left;
   font-family: 'HelveticaNeue-light' !important;
 }
