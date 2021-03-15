@@ -26446,8 +26446,8 @@ body.loaded .page-loading {
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .gradient-wrapper .post-info .inner .main-info .main-info-inner h6 {
-        font-size: 41px;
-        margin-bottom: 122px;
+        font-size: 80px;
+        margin-bottom: 60px;
     }
 }
 .gradient-wrapper .post-info .inner .main-info .main-info-inner h2 {
