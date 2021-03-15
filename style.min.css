@@ -26458,7 +26458,7 @@ body.loaded .page-loading {
     font-family: 'HelveticaNeue-light' !important;
 }
 .gradient-wrapper .post-info .inner .main-info .main-info-inner h5 {
-  font-size: 17px;
+  font-size: 16px;
   line-height: 1.18;
   margin-bottom: 80px;
   text-align: left;
@@ -26572,7 +26572,7 @@ body.loaded .page-loading {
 }
 .gradient-wrapper .post-info .inner .post-feature .post-gradient .post-thumbnail img {
     height: auto;
-    max-width: 120%;
+    max-width: 78%;
 }
 .gradient-wrapper .post-info .inner .post-feature.post-feature--2 .post-gradient {
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #38d4ff), color-stop(100%, #12a149));

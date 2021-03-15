@@ -208,6 +208,42 @@
 
 }
 
+@media only screen and (min-width: 768px) and (max-width: 991px){
+	#fotoCynthia2{
+		width: 75%;
+	}
+}
+
+@media only screen and (min-width: 991px){
+	#fotoCynthia2{
+		width: 90%;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+	#fotoMariana2{
+		width: 75%;
+	}
+}
+
+@media only screen and (min-width: 991px){
+	#fotoMariana2{
+		width: 90%;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+	#fotoJessica2{
+		width: 75%;
+	}
+}
+
+@media only screen and (min-width: 991px){
+	#fotoJessica2{
+		width: 90%;
+	}
+}
+
 
 
 
